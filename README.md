@@ -3,6 +3,8 @@
 Official PHP client for the [XRates](https://xratesapi.com) exchange rate API. Multi-source FX rates aggregated from ECB, CBR, FloatRates, fawazahmed0 and IMF, served via a single REST endpoint.
 
 [![Latest Stable Version](https://poser.pugx.org/xratesapi/php-sdk/v)](https://packagist.org/packages/xratesapi/php-sdk)
+[![Total Downloads](https://poser.pugx.org/xratesapi/php-sdk/downloads)](https://packagist.org/packages/xratesapi/php-sdk)
+[![PHP Version Require](https://poser.pugx.org/xratesapi/php-sdk/require/php)](https://packagist.org/packages/xratesapi/php-sdk)
 [![License](https://poser.pugx.org/xratesapi/php-sdk/license)](https://packagist.org/packages/xratesapi/php-sdk)
 
 - **Documentation:** <https://xratesapi.com/docs>
